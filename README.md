@@ -9,7 +9,7 @@ Esta é uma API Rest Node desenvolvida durante a aula do bootcamp Ignite da Rock
 ## Instalação
   1. Clone este repositório em sua máquina local:
 ```bash
-git clone https://github.com/seu-usuario/aula.git
+git clone https://github.com/rafael-hc/aula.git
 ```
   2. Instale as dependências do projeto:
 ```bash

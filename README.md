@@ -34,11 +34,9 @@ Registra uma nova transação.
 
 Body
 
-title: Título da transação.
-
-amount: Valor da transação.
-
-type: Tipo da transação (credit ou debit).
+- title: Título da transação.
+- amount: Valor da transação.
+- type: Tipo da transação (credit ou debit).
 
 Exemplo de corpo de requisição:
 
@@ -133,7 +131,7 @@ Exemplo de resposta:
 - [x] O usuário deve poder listar todas a transações que já ocorreram;
 - [x] O usuário deve poder visualizar uma única transação;
 
-# Regras de Negócio
+## Regras de Negócio
 
 - [x] A transação pode ser do tipo crédito que somará ao total, ou débito que subtrairá;
 - [x] Deve ser possível identificar o usuário entre as requisições;
